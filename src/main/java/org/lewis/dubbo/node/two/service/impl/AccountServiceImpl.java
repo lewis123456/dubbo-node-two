@@ -2,7 +2,7 @@ package org.lewis.dubbo.node.two.service.impl;
 
 
 import com.alibaba.dubbo.config.annotation.Service;
-import org.lewis.dubbo.interfaces.AccountService;
+import org.lewis.dubbo.node.two.AccountService;
 import org.springframework.beans.factory.annotation.Value;
 
 @Service
